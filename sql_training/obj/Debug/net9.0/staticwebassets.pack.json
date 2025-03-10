@@ -9,8 +9,20 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
       "Id": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/html/index.html",
+      "PackagePath": "staticwebassets/html/index.html"
+    },
+    {
+      "Id": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
     },
     {
       "Id": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/js/site.js",

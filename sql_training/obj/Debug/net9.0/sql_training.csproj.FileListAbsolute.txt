@@ -185,3 +185,7 @@
 /home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/sql_training.pdb
 /home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/sql_training.genruntimeconfig.cache
 /home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/ref/sql_training.dll
+/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/sql_training.sourcelink.json
+/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/c58qout7zl-nlud5aqmrq.gz
+/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/0id05bckym-egmlw2cyty.gz
+/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/ygoq67b6zq-s1jwmw9k6x.gz

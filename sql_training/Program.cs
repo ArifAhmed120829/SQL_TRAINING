@@ -18,8 +18,12 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+//app.UseStaticFiles(); // Enable serving static files --Now, 
+// you can directly open index.html in the browser (http://localhost:5000/index.html).
+
 app.UseHttpsRedirection();
 app.UseRouting();
+
 
 app.UseAuthorization();
 

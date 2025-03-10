@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sdL63OvKU4HxZeJKC/6iH7kCtllsZxejO6GYPKHbCkM=",
+  "Hash": "Ge64BXOFGNL9mSeiyTr2RKfVRUBR4ZHm5QbHIAviY04=",
   "Source": "sql_training",
   "BasePath": "_content/sql_training",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/0id05bckym-egmlw2cyty.gz",
+      "SourceId": "sql_training",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/sql_training",
+      "RelativePath": "js/script#[.{fingerprint=egmlw2cyty}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/js/script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ix7sxr4b0",
+      "Integrity": "o+qSo8BXEC2HyRuldTReyxg6+kkYaKdben3gd00gGmA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/js/script.js"
+    },
     {
       "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/0rphoe7ibg-cosvhxvwiu.gz",
       "SourceId": "sql_training",
@@ -540,6 +561,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/c58qout7zl-nlud5aqmrq.gz",
+      "SourceId": "sql_training",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/sql_training",
+      "RelativePath": "css/styles#[.{fingerprint=nlud5aqmrq}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/css/styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yxabncpesz",
+      "Integrity": "2rzC+6XlHxW/S7Znw2NqqvXI/j5bEqfiP3nKoAS19QE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/css/styles.css"
     },
     {
       "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/c5wkfkjrwn-83jwlth58m.gz",
@@ -1298,6 +1340,27 @@
       "OriginalItemSpec": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/lib/jquery/dist/jquery.slim.min.map"
     },
     {
+      "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/ygoq67b6zq-s1jwmw9k6x.gz",
+      "SourceId": "sql_training",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/sql_training",
+      "RelativePath": "html/index#[.{fingerprint=s1jwmw9k6x}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/html/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6xa7qync94",
+      "Integrity": "CsWXIZ32KxlflQmfY3v3/hn3PE9ryN/K+vzx2nfhsqs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/html/index.html"
+    },
+    {
       "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/ykyon2ev86-pj5nd1wqec.gz",
       "SourceId": "sql_training",
       "SourceType": "Discovered",
@@ -1424,6 +1487,27 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
+      "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/css/styles.css",
+      "SourceId": "sql_training",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/",
+      "BasePath": "_content/sql_training",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nlud5aqmrq",
+      "Integrity": "K4nIKAoGEUoAXar4o33l85uzvkv7PgAwnMzAQypj5BY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    },
+    {
       "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/favicon.ico",
       "SourceId": "sql_training",
       "SourceType": "Discovered",
@@ -1443,6 +1527,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/html/index.html",
+      "SourceId": "sql_training",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/",
+      "BasePath": "_content/sql_training",
+      "RelativePath": "html/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s1jwmw9k6x",
+      "Integrity": "kPHhS2YjHmu47RIouMqx79mZPmWXVNiXb0t50a2MA5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/html/index.html"
+    },
+    {
+      "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/js/script.js",
+      "SourceId": "sql_training",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/",
+      "BasePath": "_content/sql_training",
+      "RelativePath": "js/script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "egmlw2cyty",
+      "Integrity": "EvPYULcE3sjDbhU9kj0Y+4mgurqYbClXvNkNzWtujdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/script.js"
     },
     {
       "Identity": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/js/site.js",
@@ -3026,6 +3152,304 @@
       ]
     },
     {
+      "Route": "css/styles.css",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/c58qout7zl-nlud5aqmrq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004739336493"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rzC+6XlHxW/S7Znw2NqqvXI/j5bEqfiP3nKoAS19QE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 03:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K4nIKAoGEUoAXar4o33l85uzvkv7PgAwnMzAQypj5BY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4nIKAoGEUoAXar4o33l85uzvkv7PgAwnMzAQypj5BY="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/css/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K4nIKAoGEUoAXar4o33l85uzvkv7PgAwnMzAQypj5BY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 03:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4nIKAoGEUoAXar4o33l85uzvkv7PgAwnMzAQypj5BY="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/c58qout7zl-nlud5aqmrq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rzC+6XlHxW/S7Znw2NqqvXI/j5bEqfiP3nKoAS19QE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 03:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rzC+6XlHxW/S7Znw2NqqvXI/j5bEqfiP3nKoAS19QE="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.nlud5aqmrq.css",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/c58qout7zl-nlud5aqmrq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004739336493"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rzC+6XlHxW/S7Znw2NqqvXI/j5bEqfiP3nKoAS19QE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 03:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K4nIKAoGEUoAXar4o33l85uzvkv7PgAwnMzAQypj5BY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nlud5aqmrq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4nIKAoGEUoAXar4o33l85uzvkv7PgAwnMzAQypj5BY="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.nlud5aqmrq.css",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/css/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K4nIKAoGEUoAXar4o33l85uzvkv7PgAwnMzAQypj5BY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 03:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nlud5aqmrq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4nIKAoGEUoAXar4o33l85uzvkv7PgAwnMzAQypj5BY="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.nlud5aqmrq.css.gz",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/c58qout7zl-nlud5aqmrq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rzC+6XlHxW/S7Znw2NqqvXI/j5bEqfiP3nKoAS19QE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 03:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nlud5aqmrq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rzC+6XlHxW/S7Znw2NqqvXI/j5bEqfiP3nKoAS19QE="
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/7y3rxg2ohs-61n19gt1b8.gz",
       "Selectors": [
@@ -3320,6 +3744,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-tOy5kS1PTkjkEg7bjV8bJa0VpoEZJUHnbqYmm1YyhMg="
+        }
+      ]
+    },
+    {
+      "Route": "html/index.html",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/ygoq67b6zq-s1jwmw9k6x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002865329513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CsWXIZ32KxlflQmfY3v3/hn3PE9ryN/K+vzx2nfhsqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:25:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kPHhS2YjHmu47RIouMqx79mZPmWXVNiXb0t50a2MA5Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPHhS2YjHmu47RIouMqx79mZPmWXVNiXb0t50a2MA5Q="
+        }
+      ]
+    },
+    {
+      "Route": "html/index.html",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/html/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kPHhS2YjHmu47RIouMqx79mZPmWXVNiXb0t50a2MA5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:25:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPHhS2YjHmu47RIouMqx79mZPmWXVNiXb0t50a2MA5Q="
+        }
+      ]
+    },
+    {
+      "Route": "html/index.html.gz",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/ygoq67b6zq-s1jwmw9k6x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CsWXIZ32KxlflQmfY3v3/hn3PE9ryN/K+vzx2nfhsqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:25:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CsWXIZ32KxlflQmfY3v3/hn3PE9ryN/K+vzx2nfhsqs="
+        }
+      ]
+    },
+    {
+      "Route": "html/index.s1jwmw9k6x.html",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/ygoq67b6zq-s1jwmw9k6x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002865329513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CsWXIZ32KxlflQmfY3v3/hn3PE9ryN/K+vzx2nfhsqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:25:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kPHhS2YjHmu47RIouMqx79mZPmWXVNiXb0t50a2MA5Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1jwmw9k6x"
+        },
+        {
+          "Name": "label",
+          "Value": "html/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPHhS2YjHmu47RIouMqx79mZPmWXVNiXb0t50a2MA5Q="
+        }
+      ]
+    },
+    {
+      "Route": "html/index.s1jwmw9k6x.html",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/html/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kPHhS2YjHmu47RIouMqx79mZPmWXVNiXb0t50a2MA5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:25:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1jwmw9k6x"
+        },
+        {
+          "Name": "label",
+          "Value": "html/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPHhS2YjHmu47RIouMqx79mZPmWXVNiXb0t50a2MA5Q="
+        }
+      ]
+    },
+    {
+      "Route": "html/index.s1jwmw9k6x.html.gz",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/ygoq67b6zq-s1jwmw9k6x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CsWXIZ32KxlflQmfY3v3/hn3PE9ryN/K+vzx2nfhsqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:25:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1jwmw9k6x"
+        },
+        {
+          "Name": "label",
+          "Value": "html/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CsWXIZ32KxlflQmfY3v3/hn3PE9ryN/K+vzx2nfhsqs="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.egmlw2cyty.js",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/0id05bckym-egmlw2cyty.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o+qSo8BXEC2HyRuldTReyxg6+kkYaKdben3gd00gGmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:19:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EvPYULcE3sjDbhU9kj0Y+4mgurqYbClXvNkNzWtujdE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egmlw2cyty"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvPYULcE3sjDbhU9kj0Y+4mgurqYbClXvNkNzWtujdE="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.egmlw2cyty.js",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/js/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvPYULcE3sjDbhU9kj0Y+4mgurqYbClXvNkNzWtujdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:19:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egmlw2cyty"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvPYULcE3sjDbhU9kj0Y+4mgurqYbClXvNkNzWtujdE="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.egmlw2cyty.js.gz",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/0id05bckym-egmlw2cyty.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o+qSo8BXEC2HyRuldTReyxg6+kkYaKdben3gd00gGmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:19:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egmlw2cyty"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o+qSo8BXEC2HyRuldTReyxg6+kkYaKdben3gd00gGmA="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/0id05bckym-egmlw2cyty.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o+qSo8BXEC2HyRuldTReyxg6+kkYaKdben3gd00gGmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:19:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EvPYULcE3sjDbhU9kj0Y+4mgurqYbClXvNkNzWtujdE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvPYULcE3sjDbhU9kj0Y+4mgurqYbClXvNkNzWtujdE="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/wwwroot/js/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvPYULcE3sjDbhU9kj0Y+4mgurqYbClXvNkNzWtujdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:19:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvPYULcE3sjDbhU9kj0Y+4mgurqYbClXvNkNzWtujdE="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js.gz",
+      "AssetFile": "/home/arif/workspace/SQL_TRAINING/sql_training/obj/Debug/net9.0/compressed/0id05bckym-egmlw2cyty.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o+qSo8BXEC2HyRuldTReyxg6+kkYaKdben3gd00gGmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 04:19:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o+qSo8BXEC2HyRuldTReyxg6+kkYaKdben3gd00gGmA="
         }
       ]
     },
